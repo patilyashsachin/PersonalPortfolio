@@ -72,10 +72,10 @@ const Projects = () => {
       tags: ['Java', 'SpringBoot', 'React', 'MySQL', 'Microservices'],
     },
     {
-      title: 'AI-powered Knowledge Sharing Platform.',
-      description: 'AI-powered platform for sharing, searching, and managing knowledge with intelligent recommendations.',
-      image: 'https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/64502c47934b682e375a0876_AnyConv.com__Artificial%20Intelligence%20Blog%20Writing%20Using%20AI%20in%2060%20Minutes.webp',
-      tags: ['Java', 'SpringBoot', 'React', 'MySQL', 'Groq'],
+      title: 'Online Banking Management System',
+      description: 'Secure full-stack banking application for account management, fund transfers, transaction tracking, and admin operations with JWT-based authentication.',
+      image: 'https://www.addevice.io/storage/ckeditor/uploads/images/637ba22ed92a7_how.to.create.a.banking.app.step.by.step.guide.1920.1080.1.png',
+      tags: ['Java', 'SpringBoot', 'React', 'MySQL'],
     },
     {
       title: 'KumbhAssist: Crowd Management System',

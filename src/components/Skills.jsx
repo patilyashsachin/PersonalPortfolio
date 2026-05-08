@@ -12,7 +12,7 @@ const skillGroups = [
   {
     title: 'Backend Development',
     icon: Server,
-    skills: ['Node.js', 'Express.js', 'Java', 'Spring Boot', 'REST APIs'],
+    skills: ['Java', 'Spring Boot', 'Node.js', 'Express.js', 'REST APIs'],
   },
   {
     title: 'Databases & Tools',

@@ -15,7 +15,7 @@ const About = () => {
                 <h2 className="display-5 fw-bold mb-4">About Me</h2>
               </div>
               <p className={`fs-5 mb-4 anim-hidden delay-2 ${visible ? 'anim-visible' : ''}`}>
-                I'm a <strong>fresh Computer Science graduate</strong> with a deep passion for
+                I'm a <strong>Information Technology graduate</strong> with a deep passion for
                 building full-stack web applications. Though I'm at the beginning of my
                 professional journey, I've spent the past four years honing my skills through
                 academic projects, personal builds, and a hands-on internship.

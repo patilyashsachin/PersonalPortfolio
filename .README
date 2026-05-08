@@ -1,0 +1,2 @@
+Whenever you make changes to your code locally and want to update the live website, simply run this one command in your terminal:
+npm run deploy
