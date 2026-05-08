@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRight, GitBranch, Link, X, Sparkles } from 'lucide-react';
 import selfImg from '../assets/Self.jpg';
-import resumePdf from '../assets/Yash_Patil_Resume .pdf';
+import resumePdf from '../assets/Yash_Patil_Resume.pdf';
 import useInView from '../hooks/useInView';
 
 const Hero = () => {
